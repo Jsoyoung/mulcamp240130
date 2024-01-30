@@ -43,7 +43,7 @@ def main():
     if show_plot:
         st.pyplot(fig)
     else:
-        st.write("접기")
+        st.write("닫힘")
     
 
 if __name__ == "__main__":
